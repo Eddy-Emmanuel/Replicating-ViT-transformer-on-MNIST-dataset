@@ -2,8 +2,7 @@
 
 A complete from-scratch implementation of the Vision Transformer (ViT) architecture applied to the MNIST dataset. This project implements every component without relying on pre-built transformer libraries, providing a clear understanding of how ViT works internally.
 
-![Vision Transformer Architecture]([https://raw.githubusercontent.com/yourusername/yourrepo/main/architecture.png](https://www.google.com/imgres?q=vit%20transformer%20research%20paper&imgurl=https%3A%2F%2Fmiro.medium.com%2F1*AoE_mecs9_prJ2mIc9TDqQ.png&imgrefurl=https%3A%2F%2Fai.plainenglish.io%2Fvision-transformers-explained-from-paper-to-pytorch-implementation-8ab20957f0b0&docid=pUSuJLx25oBQlM&tbnid=fg-VNxCQhLJ-GM&vet=12ahUKEwiZ9eSL_JSRAxXFVEEAHddeBHYQM3oECBoQAA..i&w=930&h=485&hcb=2&ved=2ahUKEwiZ9eSL_JSRAxXFVEEAHddeBHYQM3oECBoQAA))
-*Architecture diagram showing the flow from image patches through the transformer encoder to classification*
+![Vision Transformer Architecture](https://miro.medium.com/v2/resize:fit:1400/1*AoE_mecs9_prJ2mIc9TDqQ.png)
 
 ## Overview
 
@@ -214,3 +213,5 @@ MIT License - Feel free to use this code for learning and experimentation.
 - Inspired by the goal of understanding transformers from first principles
 
 ---
+
+**Note**: This is a learning-focused implementation. For production use, consider using optimized libraries like `timm` or `transformers`.
